@@ -7,7 +7,6 @@
   <a href="https://github.com/reenuasrin2008/wizards-chess-game"><img alt="GitHub Repo" src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0e1017"/></a>
   <img alt="Single File" src="https://img.shields.io/badge/Build-Single_HTML_File-ff5470?style=for-the-badge&logo=html5&logoColor=white&labelColor=0e1017"/>
   <img alt="No Backend" src="https://img.shields.io/badge/Backend-None-c7bfff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0e1017"/>
-  <img alt="License" src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=open-source-initiative&logoColor=white&labelColor=0e1017"/>
 </p>
 
 <p align="center">
